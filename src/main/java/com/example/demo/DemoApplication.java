@@ -11,6 +11,10 @@ public class DemoApplication {
 		System.out.printf("Hello");
 
 		SpringApplication.run(DemoApplication.class, args);
+		String stringtest;
+
+
+
 	}
 
 }
